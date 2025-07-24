@@ -1,16 +1,21 @@
-## Hi there 👋
+Hola mundo 👋, soy Mayleris
 
-<!--
-**May1704/May1704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Una apasionada por la tecnología y sus usos en la vida cotidiana, creyente de la innovación al momento de ejecutar cualquier tarea, enfocada en esta nueva área del desarrollo web, así como su implementación en diversas plataformas y tecnologías. 
 
-Here are some ideas to get you started:
+Cuento con un abanico de habilidades en TI, desde servicio técnico pasando por servidores, redes, cctv, y ahora el increíble mundo del desarrollo, me siento cómoda lidiando con el stack completo y la organización ideas lógicas al mundo real.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Contacto
+Puedes contactarme a través de mi correo electrónico: maylerise@gmail.com
+Puedes contactarme a través de Linkedin: https://www.linkedin.com/in/mayleris-echezuria/
+
+🎨 Frontend
+HTML5 CSS3 Javascript 
+
+🔨 Backend
+Java 21, Spring Boot, REST APIs, JUnit, MySQL, TDD, Spring Security, JWT
+
+📎 Devops
+Docker, CI/CD, Jenkins, Kubernetes 
+
+😊 Herramientas
+Visual Studio Code Bash Git GitHub Postman AWS Windows Ubuntu JIRA Slack Zoom
